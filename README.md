@@ -316,3 +316,9 @@ The pull request may need to be updated (after its submission) for two main reas
 2. the reviewer requested further changes;
 
 In order to update the pull request, you need to commit the changes in your branch and then push the commit(s) to GitHub. You are encouraged to use regular (non-rebased) commits on top of previously existing ones.
+
+### Talks
+
+**QQ Group: 932439028**
+
+**WeChat Group: Posted in the QQ Group** [ P.S. Incorrect QQ Group number will raise a NPE :) ]
