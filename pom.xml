@@ -19,24 +19,6 @@
         <module>assembly</module>
     </modules>
 
-    <distributionManagement>
-        <repository>
-            <id>releases</id>
-            <name>user releases</name>
-            <url>
-                http://w-bi6.fenxi.shgt.qihoo.net:8081/nexus/content/repositories/releases
-            </url>
-            <uniqueVersion>true</uniqueVersion>
-        </repository>
-        <snapshotRepository>
-            <id>snapshots</id>
-            <name>user snapshots</name>
-            <url>
-                http://w-bi6.fenxi.shgt.qihoo.net:8081/nexus/content/repositories/snapshots
-            </url>
-        </snapshotRepository>
-    </distributionManagement>
-
     <properties>
         <!-- Ensure that source and target version are overridden from base ASF POM.
      This is also used by forbiddenapis to ensure correct signatures are loaded. -->
